@@ -1,4 +1,4 @@
-   Hi there 👋 <br>
+   Hi there <br>
     Olá 👋
 - 🔭 I’m currently working on personal developer projects. <br>
       Atualmente estou trabalhando em projetos pessoais de desenvolvedor.
